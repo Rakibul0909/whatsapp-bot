@@ -11,9 +11,9 @@
 
 `pkg install openssl -y`
 
-'node -v'
+`node -v'
 
-'npm -v`
+`npm -v`
 
 `npm init -y`
 
