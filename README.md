@@ -6,12 +6,14 @@
 
 `cd rakibul-bot`
 
+`pkg install git -y`
+
 `npm install 
 @whiskeysockets/baileys@latest`
 
 `pkg install openssl -y`
 
-`node -v'
+`node -v`
 
 `npm -v`
 
