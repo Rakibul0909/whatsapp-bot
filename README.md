@@ -6,9 +6,15 @@
 
 `cd rakibul-bot`
 
-`npm init -y`
-
 `npm install 
 @whiskeysockets/baileys@latest`
+
+`pkg install openssl -y`
+
+'node -v'
+
+'npm -v`
+
+`npm init -y`
 
 `nano index.js`
