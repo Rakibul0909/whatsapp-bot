@@ -1,12 +1,10 @@
 `pkg update && pkg upgrade`
 
-`pkg install nodejs`
-
-`mkdir rakibul-bot`
-
-`cd rakibul-bot`
-
 `pkg install git -y`
+
+`git clone https://github.com/Rakibul0909/whatsapp-bot.git`
+
+`pkg install nodejs`
 
 `npm install 
 @whiskeysockets/baileys@latest`
